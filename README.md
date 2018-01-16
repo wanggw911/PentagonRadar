@@ -2,7 +2,7 @@
 
 ## 一、实现效果
 
-![](http://oy7b0gogl.bkt.clouddn.com/01-16-2018-16-38-48.gif)
+![](http://oy7b0gogl.bkt.clouddn.com/11-16-2018-16-46-50.gif)
 
 ## 二、简单说明
 
@@ -22,7 +22,7 @@
 
 ## 四、其他优秀实现
 
-* [Charts(16k star)](https://github.com/danielgindi/Charts)
+* [Charts (16k star)](https://github.com/danielgindi/Charts)
 * [ZFChart](https://github.com/Zirkfied/ZFChart) 
 
 

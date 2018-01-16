@@ -22,7 +22,7 @@
 
 ## 四、其他优秀实现
 
-* [Charts (16k star)](https://github.com/danielgindi/Charts)
+* [16k star：Charts](https://github.com/danielgindi/Charts)
 * [ZFChart](https://github.com/Zirkfied/ZFChart) 
 
 
